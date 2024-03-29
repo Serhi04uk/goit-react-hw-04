@@ -1,0 +1,15 @@
+.disp {
+  display: flex;
+  align-items: center;
+
+  margin: 10px;
+}
+
+.page {
+  margin: 0 10px;
+}
+
+.btn {
+  border-radius: 4px;
+  height: 26px;
+}
